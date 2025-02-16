@@ -1,0 +1,5 @@
+deepface>=0.0.93
+groq>=0.18.0
+opencv_python>=4.11.0.86
+streamlit>=1.41.1
+streamlit>=1.37.1
