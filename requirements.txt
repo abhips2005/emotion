@@ -3,3 +3,4 @@ deepface==0.0.79
 streamlit
 groq
 opencv-python-headless
+numpy
